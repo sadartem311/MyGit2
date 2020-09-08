@@ -28,7 +28,7 @@ if (personalMovieBD.count<10){
 } else if (personalMovieBD.count>10 && personalMovieBD.count<30){
     console.log("Вы классический зритель");
 } else if (personalMovieBD.count>30){
-    console.log("Вы киноман");
+    console.log("Вы киноман, кино-ваша страсть");
 } else {
     console.log("Произошла ошибка");
 }
